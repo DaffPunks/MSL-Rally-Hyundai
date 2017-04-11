@@ -5,6 +5,7 @@ node_modules
 stats.json
 __app
 _app
+asd.scss
 
 # Cruft
 .DS_Store
